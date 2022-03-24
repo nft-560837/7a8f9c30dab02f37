@@ -1,0 +1,11 @@
+{
+	"description" : "infinitas NFT",
+	"image" : "https://github.com/nft-560837/7a8f9c30dab02f37/blob/gh-pages/infinitasNFT.gif",
+	"name" : "國際 NFT 元宇宙博覽會",
+	"attributes":[
+		{
+			"trait_type": "animation", 
+    	"value": "spin"
+		}
+	]	
+}
