@@ -1,0 +1,11 @@
+{
+	"description" : "test NFT bird",
+	"image" : "https://nft-560837.github.io/7a8f9c30dab02f37/0000000000000000000000000000000000000000000000000000000000000003.jpeg",
+	"name" : "test bird",
+	"attributes":[
+		{
+			"trait_type": "test", 
+    	"value": "test"
+		}
+	]	
+}
